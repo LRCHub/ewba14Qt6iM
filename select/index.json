@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "나팔바지 Napal Baji",
+  "base_artist": "PSY",
+  "createdAt": "2025-12-11T20:17:25.854321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Napal Baji (나팔바지)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/01_Napal_Baji_(나팔바지)_PSY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "나팔바지",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_01_나팔바지_PSY.txt"
+    }
+  ]
+}
